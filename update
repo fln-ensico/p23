@@ -1,1 +1,12 @@
 cp ../k12/jnb/K12.si.ipynb ./notebooks/aula-3.ipynb
+cp ../k12/jnb/K12.img-t.ipynb ./notebooks/aula-4.ipynb
+cp ../k12/jnb/K12.dig.ipynb ./notebooks/aula-5-a.ipynb
+cp ../k12/jnb/K12.dig-si.ipynb ./notebooks/aula-5-b.ipynb
+cp ../k12/jnb/K12.qr.ipynb ./notebooks/aula-6.ipynb
+cp ../k12/jnb/K12.crip.ipynb ./notebooks/aula-7.ipynb
+cp ../k12/jnb/K12.cdig.ipynb ./notebooks/aula-9.ipynb
+cp ../k12/jnb/lab-seqnum.ipynb ./notebooks/aula-14.ipynb
+cp ../k12/jnb/lab-seqnum-2.ipynb ./notebooks/aula-15.ipynb
+cp ../k12/jnb/K12.seqchar.ipynb ./notebooks/aula-16.ipynb
+cp ../k12/jnb/K12.words.ipynb ./notebooks/aula-17.ipynb
+cp ../k12/jnb/K12.map.ipynb ./notebooks/aula-18.ipynb

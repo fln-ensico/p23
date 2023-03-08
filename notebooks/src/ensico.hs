@@ -2,8 +2,8 @@ module ENSICO where
 
 --import Cp
 import Data.Char
---import Data.List
-import Data.List.Split
+import Data.List
+--import Data.List.Split
 
 --- composition ---
 
@@ -16,19 +16,19 @@ import Data.List.Split
 
 -----------------
 
-numBits = length
+--numBits = length
 
-numBytes s = div (numBits s) 8
+--numBytes s = div (numBits s) 8
 
-enviar t = t >>= ascii
+--enviar t = t >>= ascii
 
-bytesBits = chunksOf 8
+--bytesBits = chunksOf 8
 
-letrasBytes = map (chr . byte2dec)
+--letrasBytes = map (chr . byte2dec)
 
-receber = map (chr . byte2dec) . chunksOf 8
+--receber = map (chr . byte2dec) . chunksOf 8
 
-ascii = dec2byte . ord
+--ascii = dec2byte . ord
 
 ----- ASCII order to standard order -----
 
