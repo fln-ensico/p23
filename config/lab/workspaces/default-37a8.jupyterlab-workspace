@@ -6,8 +6,7 @@
           "type": "tab-area",
           "currentIndex": 0,
           "widgets": [
-            "notebook:index.ipynb",
-            "notebook:aula17.ipynb"
+            "notebook:index.ipynb"
           ]
         },
         "current": "notebook:index.ipynb"
@@ -53,12 +52,6 @@
     "notebook:index.ipynb": {
       "data": {
         "path": "index.ipynb",
-        "factory": "Notebook"
-      }
-    },
-    "notebook:aula17.ipynb": {
-      "data": {
-        "path": "aula17.ipynb",
         "factory": "Notebook"
       }
     }
