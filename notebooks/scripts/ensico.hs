@@ -9,11 +9,6 @@ module ENSICO where
 
 (|>) = flip ($)
 
---- composition ---
-
-(|>) = flip ($)
-(>>) = flip (.)
-
 --- Functional Programming, part II
 
 help x = splitAt (div (length x) 2) x
