@@ -17,6 +17,6 @@ divide = help
 
 split = help
 
-p1 = fst . divide
-p2 = snd . divide
+part1 = fst . divide
+part2 = snd . divide
 
