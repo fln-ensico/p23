@@ -1,0 +1,4 @@
+# copying *.hs files
+cp ../k12/erasmus/scripts/ensico.hs ./notebooks/scripts
+# copying *.ipynb files
+cp ../k12/erasmus/o6w*.ipynb ./notebooks
