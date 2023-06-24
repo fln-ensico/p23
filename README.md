@@ -15,3 +15,6 @@ Link para o ambiente o6w disponibilizado no âmbito do projeto CS4All:
 
 Link para o ambiente c1b disponibilizado no âmbito do projeto CS4All:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fln-ensico/p23/c1b)
+
+Link para o ambiente c3b disponibilizado no âmbito do projeto CS4All:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fln-ensico/p23/c3b)
