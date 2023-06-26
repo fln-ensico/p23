@@ -28,7 +28,11 @@
     "\n",
     "* ### <span style=\"color:darkblue\"> [**PART I** | Numeric lists](./c3b-i.ipynb)</span>\n",
     "* ### <span style=\"color:darkblue\"> [**PART II** | Characters and strings](./c3b-ii.ipynb)</span>\n",
-    "* ### <span style=\"color:darkblue\"> [**PART III** | Higher order functions](./c3b-iii.ipynb)</span>"
+    "* ### <span style=\"color:darkblue\"> [**PART III** | Higher order functions](./c3b-iii.ipynb)</span>\n",
+    "* ### <span style=\"color:darkblue\"> [**PART IV** | Pairing Lists](./c3b-iv.ipynb)</span>\n",
+    "* ### <span style=\"color:darkblue\"> [**PART V** | Dictionaries](./c3b-v.ipynb)</span>\n",
+    "* ### <span style=\"color:darkblue\"> [**PART VI** | Graphs](./c3b-vi.ipynb)</span>\n",
+    "* ### <span style=\"color:darkblue\"> [**PART VII** | Booleans](./c3b-vii.ipynb)</span>"
    ]
   }
  ],
